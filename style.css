@@ -1,0 +1,23 @@
+
+@media only screen and (max-width: 400px) {
+    h1{
+      float: left;
+    }
+    div{ float: left;
+
+    }
+  }
+
+
+
+img{
+    float: left;
+    width: 500px;
+    height: 500px;
+}
+  h1{ text-align: left;
+      float: right;
+  }
+  div{
+      float: right;
+  }
